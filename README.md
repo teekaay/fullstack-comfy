@@ -34,6 +34,14 @@ Alternatively, run `docker-compose up` to run everything a docker container.
   [this](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#commit) style guide by the Angular.js community
 * Git hooks are created with `husky` and run on each commit and push
 
+### Alternatives
+
+* JS Superset: Typescript, Flow
+* Frontend: Knockout, Marionette, Mithril, Angular
+* Stylesheets: SASS, LESS
+* Web framework: Koa, Hapi.js
+* Libraries: Lodash, Mongoose
+
 ## Build pipeline
 
 The Grunt tasks to use are intended to mirror the steps of a real build
